@@ -1,0 +1,2 @@
+print("AI Study & Research Assistant")
+print("GenAI project setup complete!")
